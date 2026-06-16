@@ -1,4 +1,4 @@
-# Diagnóstico de Restaurante — Orquesta Supply
+  # Diagnóstico de Restaurante — Orquesta Supply
 
 App de diagnóstico para clientes de consultoría. El cliente llena un formulario
 (6 áreas de negocio: ventas, costos, insumos, mano de obra, merma/operación,
